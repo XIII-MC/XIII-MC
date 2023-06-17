@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/XIII-MC">
-    <img src="https://komarev.com/ghpvc/?username=XIII-MC&color=blue&style=flat)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=XIII-MC&show_icons=true&theme=dracula">
   </a>
 </p>
 
