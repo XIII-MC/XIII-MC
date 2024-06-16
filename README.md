@@ -11,6 +11,9 @@
   <a href="https://github.com/XIII-MC">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIII-MC&langs_count=10&&layout=compact&card_width=699&hide_border=true&theme=transparent" />
   </a>
+  <a href="https://github.com/XIII-MC">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XIII-MC&show_icons=true&theme=transparent)
+  </a>
 </p>
 </details>
 
@@ -19,4 +22,3 @@
     <img src="https://komarev.com/ghpvc/?username=XIII-MC&color=blue&style=flat)" />
   </a>
 </p>
-
