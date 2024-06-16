@@ -3,7 +3,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XIII-MC&theme=transparent" />
   </a>
   <a href="https://github.com/XIII-MC">
-    <img src="https://github-readme-stats.vercel.app/api?username=XIII-MC&show_icons=true&theme=transparent&hide_border=true&custom_title=Stats&card_width=699&show=reviews,discussions_started,discussions_answered,prs_merged" />
+    <img src="https://github-readme-stats.vercel.app/api?username=XIII-MC&show_icons=true&theme=transparent&hide_border=true&custom_title=Stats&card_width=699" />
   </a>
   <a href="https://github.com/XIII-MC">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=XIII-MC&hide_border=true&card_width=699&theme=transparent" />
